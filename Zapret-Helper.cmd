@@ -1,3 +1,3 @@
 @echo off
-rem Zapret Helper by plyushkin96 - launcher
-start "" "%~dp0..\Zapret-Helper\Zapret-Helper.exe"
+rem Zapret Helper by plyushkin96
+start "" "%~dp0Zapret-Helper.exe"
