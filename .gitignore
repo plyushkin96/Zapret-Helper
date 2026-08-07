@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.etl
+*.pcapng
+debug.log
+testlog.txt
+smoketest.txt
+report.txt
+*.WebView2/
